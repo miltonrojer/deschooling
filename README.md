@@ -4,9 +4,9 @@ This repository contains the code of the Deschooling web aplication and the smar
 
 ### ToDoList:
 
-[] Well understanding of Ivan Ilich's Deschooling Society ideas
-[] Test if it can be implemented in SmartBCH
-[] Start the front-end
-[] CrowdFunding
+[ ] Well understanding of Ivan Ilich's Deschooling Society ideas \
+[ ] Test if it can be implemented in SmartBCH \
+[ ] Start the front-end \
+[ ] CrowdFunding
 
 
