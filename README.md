@@ -12,13 +12,3 @@ The user would identify himself by name and address and describe the activity fo
 A computer would send him back the names and addresses of all those who had inserted the same description.
 It is amazing that such a simple utility has never been used on a broad scale for publicly valued activity.
 *Ivan Illich*
-
-### ToDoList:
-
-[ ] Well understanding of Ivan Ilich's Deschooling Society ideas \
-[ ] Test if it can be implemented in SmartBCH \
-[ ] Start the front-end \
-[ ] CrowdFunding
-
-
-
